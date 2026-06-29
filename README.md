@@ -19,7 +19,8 @@ Tinkercad Circuits / Wokwi Simulator
 # Circuit Connections
 DHT22 Pin| Arduino UNO VCC| 5V DATA| Digital Pin 2 NC| Not Connected GND| GND
 
-Screenshot 2026-06-21 204246
+<img width="807" height="765" alt="Screenshot 2026-06-21 201759" src="https://github.com/user-attachments/assets/4ea89286-a741-4da0-ae79-53e6d68ea195" />
+
 # Architecture
 DHT22 Sensor → Arduino UNO → Serial Monitor
 
@@ -54,8 +55,8 @@ Start the simulation.
 Open the Serial Monitor to view temperature and humidity values.
 # Sample Output
 Temperature: 29.5 °C Humidity: 65% Temperature: 29.7 °C Humidity: 64% Temperature: 29.8 °C Humidity: 65%
+<img width="1202" height="663" alt="Screenshot 2026-06-21 203810" src="https://github.com/user-attachments/assets/4a09fb3b-8d11-4b7c-bd54-e79d5ab2a0ac" />
 
-Screenshot 2026-06-21 204208
 # Applications
 Weather monitoring systems
 Smart home automation
